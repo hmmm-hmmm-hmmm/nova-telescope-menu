@@ -1,8 +1,9 @@
 {
     "name": "hmmm-hmmm-hmmm/nova-telescope-menu",
-    "description": "A Laravel Nova tool.",
+    "description": "The Nova Telescope Menu package provides an easy way to integrate Telescope into your Laravel Nova dashboard, allowing you to access Laravel Telescope directly from your Nova application.",
     "keywords": [
         "laravel",
+        "telescope",
         "nova"
     ],
     "license": "MIT",
