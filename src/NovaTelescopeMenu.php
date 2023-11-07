@@ -45,9 +45,9 @@ class NovaTelescopeMenu extends Tool
         return $this->link;
     }
 
-    public function setTitle(string $title): self
+    public function setName(string $name): self
     {
-        $this->link->name = $title;
+        $this->link->name = $name;
 
         return $this;
     }
